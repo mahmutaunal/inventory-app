@@ -34,3 +34,21 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+
+Screenshots
+---------------
+
+[<img src="/screenshots/Screenshot_20230328_145358.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230328_145358.png)
+[<img src="/screenshots/Screenshot_20230328_145429.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230328_145429.png)
+[<img src="/screenshots/Screenshot_20230328_145447.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230328_145447.png)
+[<img src="/screenshots/Screenshot_20230328_145501.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230328_145501.png)
+    
